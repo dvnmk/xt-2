@@ -1,3 +1,5 @@
+* https://www.youtube.com/watch?v=YcyUr7mT3hg
+
 I made XT-2 inspired by Teenage Engineering TX-6.
 It has/is,
 
