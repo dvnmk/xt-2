@@ -17,5 +17,5 @@ It has/is,
 Actually I used the Behringer UCA202 for record the sound from modular and synth. But not satisfied with it, so made this and happy with CD quality and hackable thing.
 In demo, Kastl Drum is sound source and also control the XT-2 via VCMC. Though not yet implemented, it has also pink noise and hires sine wave. I will hack this if other features needed.
 
-https://llllllll.co/t/xt-2-diy-audio-mixer-interface-etc-inspired-by-tx-6/
-https://github.com/dvnmk/xt-2
+* https://llllllll.co/t/xt-2-diy-audio-mixer-interface-etc-inspired-by-tx-6/
+* https://github.com/dvnmk/xt-2
