@@ -1,5 +1,3 @@
-* https://www.youtube.com/watch?v=YcyUr7mT3hg
-
 I made XT-2 inspired by Teenage Engineering TX-6.
 It has/is,
 
@@ -21,3 +19,4 @@ In demo, Kastl Drum is sound source and also control the XT-2 via VCMC. Though n
 
 * https://llllllll.co/t/xt-2-diy-audio-mixer-interface-etc-inspired-by-tx-6/
 * https://github.com/dvnmk/xt-2
+* https://www.youtube.com/watch?v=YcyUr7mT3hg
